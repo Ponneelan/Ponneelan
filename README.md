@@ -37,11 +37,6 @@ I'm Ponneelan a Full Stack Web Developer (Angular/Nest.js), Flutter Developer. I
 - :email: ponneelan.ramanathan@gmail.com
 
 
-<details>
-<summary>
-  More stuff about me <img src="assets/hi.gif" width="25px" height="25px" alt="hi">
-</summary>
-
 <br >
 
 ### Github Stats
@@ -58,6 +53,5 @@ I'm Ponneelan a Full Stack Web Developer (Angular/Nest.js), Flutter Developer. I
 <img height="auto" width="91%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ponneelan&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="Ponneelan Ramanathan"/>
 </div>
 
-</details>
 
 <img width=100% src="assets/bottom.svg"/>
