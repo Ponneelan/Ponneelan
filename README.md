@@ -11,7 +11,7 @@
 
 ### About Me
 
-I'm Ponneelan a Full Stack Web Developer (Angular/Nest.js), Flutter Developer and Blog writer in [WordPress](https://ponneelanr.wordpress.com/). I Spend most of time coding outstanding projects or writing blogs.
+I'm Ponneelan a Full Stack Web Developer (Angular/Nest.js), Flutter Developer. I Spend most of time to learning new technologies.
 
 ### :mailbox: Reach me out!
 
@@ -43,29 +43,6 @@ I'm Ponneelan a Full Stack Web Developer (Angular/Nest.js), Flutter Developer an
 </summary>
 
 <br >
-
-I love sharing knowledge and writing blogs, and that's why LearnWithMe WordPress Blog exists!
-
-### What is LearnWithMe?
-
-LearnWithMe is a wordpress blog for learning Web/Mobile development and coding. Including new technologies and frameworks and anything really related to development world.
-
-### Coding Stats
-
-<!--START_SECTION:waka-->
-<!-- 
-```text
-Total Time: 47 hrs 26 mins
-
-Dart             36 hrs 52 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀   77.73 %
-YAML             6 hrs 19 mins   ⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.32 %
-Text             1 hr 59 mins    ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.19 %
-textmate         58 mins         ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.06 %
-XML              19 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.67 %
-``` -->
-
-<!--END_SECTION:waka-->
-<br/>
 
 ### Github Stats
 
